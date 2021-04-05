@@ -14,11 +14,11 @@ Also, [this](https://www.youtube.com/watch?v=dQw4w9WgXcQ, "Rick") is a link.
 
 ## Reflection Questions
 1. What was your goal for this deliverable, as defined on your Learning Plan?
-  - *My goal was to make this Readme*
+  *My goal was to make this Readme*
 2. Did you meet this goal? If not, why?
-  - *I met my goal*
+  *I met my goal*
 4. What needs to happen for you to stay on schedule from this point forward (e.g., change of plan, putting in extra time, getting help, etc.)?
-  - *I have done well keeping on schedule, so nothing needs to change right now.
+  *I have done well keeping on schedule, so nothing needs to change right now.
 
 
 ## Timeline
